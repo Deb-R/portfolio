@@ -81,7 +81,6 @@ IBM Data Analytics with Excel and R Professional Certificate
 - Analytical Thinking
 - Problem Solving Abilities
 
-  
 ### CERTIFICATION
 - SQL
 - Sololearn
